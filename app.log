@@ -1,0 +1,62 @@
+2024-01-18 19:53:43 - Success: Dodano nowy przepis
+2024-01-18 19:55:31 - Success: Dodano nowy przepis - Recipe Title: teeeet - User: a
+2024-01-18 19:56:27 - Success: Dodano nowy przepis - tytuł przepisu: hah - Użytkownik: a
+2024-01-18 19:58:35 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-01-18 19:58:35 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-01-18 19:58:36 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: a
+2024-01-18 20:00:56 - Success: Dodano nowego użytkownika: nowytestowy
+2024-01-18 20:05:03 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:05:08 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:05:08 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:05:10 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:07:52 - Error: Błędny login lub hasło dla użytkownika 'af'.
+2024-01-18 20:08:04 - Error: Błędny login lub hasło dla użytkownika 'fafa'.
+2024-01-18 20:08:51 - Error: podano puste pola 
+2024-01-18 20:09:06 - Error: podano puste pola przy próbie zalogowania
+2024-01-18 20:09:14 - Error: podano puste pola przy próbie zalogowania
+2024-01-18 20:09:15 - Error: podano puste pola przy próbie zalogowania
+2024-01-18 20:11:43 - Error: Błędny login lub hasło dla użytkownika 'a'.
+2024-01-18 20:18:52 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:20:57 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:21:30 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:23:02 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:23:05 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 21:55:35 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:02:50 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:06:45 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:13 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:16 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:19 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:27 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:10:47 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:15:59 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:18:23 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:18:33 - Success: Użytkownik 'b' zalogował się.
+2024-01-18 22:20:20 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:20:31 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:27:55 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:27:58 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:28:34 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:28:41 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:28:46 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:30:01 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:30:02 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:30:54 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:34:49 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:37:06 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:44:10 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:44:48 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:46:53 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:49:01 - Success: Użytkownik 'a' został wylogowany.
+2024-01-19 12:20:11 - Success: Użytkownik 'a' zalogował się.
+2024-01-19 12:20:17 - Success: Użytkownik 'b' zalogował się.
+2024-01-19 12:20:46 - Success: Dodano nowego użytkownika: Maciej
+2024-01-19 12:20:59 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:20:59 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-01-19 12:21:35 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:21:35 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-01-19 12:21:46 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:21:46 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-01-19 12:22:31 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:22:42 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: Maciej
+2024-01-19 12:23:22 - Success: Użytkownik 'a' zalogował się.
